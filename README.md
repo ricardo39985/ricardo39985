@@ -81,4 +81,4 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=ricardo39985&theme=vue-dark&border=DD0000" /></p></br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ricardo39985&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ricardo39985&theme=vue)](https://github.com/ricardo39985/)
