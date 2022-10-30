@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ricardo Persaud</h1>
 <h3 align="center">A passionate full stack developer from Upstate NY</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardo39985&label=Profile%20views&color=0e75b6&style=flat" alt="ricardo39985" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardo39985&label=Profile%20views&color=0e75b6&style=flat" alt="ricardo39985" /> <img src="https://wakatime.com/badge/user/10a233ef-3900-4c0a-b3da-0cd3ab21d8c4/project/d41eff52-f989-402a-9814-64375ee6eed4.svg"/>
+ </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardo39985" alt="ricardo39985" /></a> </p>
 
@@ -10,7 +11,6 @@
 <a href="https://linkedin.com/in/ricardopersaudcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardopersaudcodes" height="30" width="40" /></a>
 </p>
 </p>
-
 
 ## 🛠️ My favorite tools
 
