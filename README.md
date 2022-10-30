@@ -82,3 +82,4 @@
 <p><img align="center" src="https://streak-stats.demolab.com?user=ricardo39985&theme=vue-dark&border=DD0000" /></p></br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ricardo39985&theme=vue)](https://github.com/ricardo39985/)
+<a href="https://github.com/ricardo39985"><img src="https://wakatime.com/share/@10a233ef-3900-4c0a-b3da-0cd3ab21d8c4/8de62391-0cc5-4717-91f0-7410068b2b53.png" /></a>
